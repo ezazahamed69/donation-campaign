@@ -1,0 +1,125 @@
+{
+    "products": [
+      {
+        "picture": "product1.jpg",
+        "title": "Fitness Tracker",
+        "category": "Health",
+        "category_bg_color": "#1abc9c",
+        "card_bg_color": "#f2f2f2",
+        "text_button_bg_color": "#3498db",
+        "description": "Track your daily fitness activities with this advanced fitness tracker.",
+        "price": 49.99
+      },
+      {
+        "picture": "product2.jpg",
+        "title": "Educational Puzzle Set",
+        "category": "Education",
+        "category_bg_color": "#e74c3c",
+        "card_bg_color": "#f9e79f",
+        "text_button_bg_color": "#34495e",
+        "description": "Enhance your child's learning with this educational puzzle set.",
+        "price": 19.99
+      },
+      {
+        "picture": "product3.jpg",
+        "title": "Stylish Hoodie",
+        "category": "Clothing",
+        "category_bg_color": "#3498db",
+        "card_bg_color": "#f2f2f2",
+        "text_button_bg_color": "#e74c3c",
+        "description": "Stay warm and fashionable with this stylish hoodie.",
+        "price": 29.99
+      },
+      {
+        "picture": "product4.jpg",
+        "title": "Organic Food Basket",
+        "category": "Food",
+        "category_bg_color": "#2ecc71",
+        "card_bg_color": "#f9e79f",
+        "text_button_bg_color": "#e67e22",
+        "description": "Enjoy a selection of organic and healthy foods in this basket.",
+        "price": 39.99
+      },
+      {
+        "picture": "product5.jpg",
+        "title": "Yoga Mat",
+        "category": "Health",
+        "category_bg_color": "#1abc9c",
+        "card_bg_color": "#f2f2f2",
+        "text_button_bg_color": "#3498db",
+        "description": "Practice yoga comfortably with this high-quality yoga mat.",
+        "price": 19.99
+      },
+      {
+        "picture": "product6.jpg",
+        "title": "Science Kit",
+        "category": "Education",
+        "category_bg_color": "#e74c3c",
+        "card_bg_color": "#f9e79f",
+        "text_button_bg_color": "#34495e",
+        "description": "Explore the wonders of science with this interactive science kit.",
+        "price": 24.99
+      },
+      {
+        "picture": "product7.jpg",
+        "title": "Casual T-Shirt",
+        "category": "Clothing",
+        "category_bg_color": "#3498db",
+        "card_bg_color": "#f2f2f2",
+        "text_button_bg_color": "#e74c3c",
+        "description": "Add a casual touch to your wardrobe with this comfortable t-shirt.",
+        "price": 14.99
+      },
+      {
+        "picture": "product8.jpg",
+        "title": "Gourmet Chocolate Box",
+        "category": "Food",
+        "category_bg_color": "#2ecc71",
+        "card_bg_color": "#f9e79f",
+        "text_button_bg_color": "#e67e22",
+        "description": "Indulge in the rich flavors of gourmet chocolates with this box.",
+        "price": 29.99
+      },
+      {
+        "picture": "product9.jpg",
+        "title": "Weight Scale",
+        "category": "Health",
+        "category_bg_color": "#1abc9c",
+        "card_bg_color": "#f2f2f2",
+        "text_button_bg_color": "#3498db",
+        "description": "Keep track of your weight and health goals with this digital weight scale.",
+        "price": 34.99
+      },
+      {
+        "picture": "product10.jpg",
+        "title": "Art Supplies Kit",
+        "category": "Education",
+        "category_bg_color": "#e74c3c",
+        "card_bg_color": "#f9e79f",
+        "text_button_bg_color": "#34495e",
+        "description": "Unleash your creativity with this comprehensive art supplies kit.",
+        "price": 22.99
+      },
+      {
+        "picture": "product11.jpg",
+        "title": "Denim Jeans",
+        "category": "Clothing",
+        "category_bg_color": "#3498db",
+        "card_bg_color": "#f2f2f2",
+        "text_button_bg_color": "#e74c3c",
+        "description": "Stay stylish and comfortable in these classic denim jeans.",
+        "price": 39.99
+      },
+      {
+        "picture": "product12.jpg",
+        "title": "Fresh Fruit Basket",
+        "category": "Food",
+        "category_bg_color": "#2ecc71",
+        "card_bg_color": "#f9e79f",
+        "text_button_bg_color": "#e67e22",
+        "description": "Enjoy a variety of fresh and delicious fruits in this basket.",
+        "price": 19.99
+      }
+    ]
+  }
+  
