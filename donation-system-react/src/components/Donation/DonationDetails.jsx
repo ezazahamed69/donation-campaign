@@ -1,36 +1,3 @@
-// import React, { useEffect, useState } from "react";
-// import { useParams } from "react-router-dom";
-
-// const DonationDetails = () => {
-//   const { id } = useParams(); // Access the 'id' parameter from the URL
-//   const [donationDetails, setDonationDetails] = useState(null);
-
-//   useEffect(() => {
-//     // Fetch donation details based on 'id' from your data source
-//     fetch(`./donationCampaignApi.json`)
-//       .then((res) => res.json())
-//       .then((data) => {
-//         // Find the donation with the matching 'id'
-//         const selectedDonation = data.find((item) => item.id === id);
-//         setDonationDetails(selectedDonation);
-//       });
-//   }, [id]);
-
-//   if (!donationDetails) {
-//     return <div>Loading...</div>;
-//   }
-
-//   return (
-//     <div>
-//       {/* Display donation details here */}
-//       <h1>{donationDetails.title}</h1>
-//       <p>{donationDetails.description}</p>
-//       {/* Add more details as needed */}
-//     </div>
-//   );
-// };
-
-// export default DonationDetails;
 
 
 import React, { useEffect, useState } from "react";
@@ -41,9 +8,7 @@ const DonationDetails = () => {
   const [donation, setDonation] = useState(null);
 
   useEffect(() => {
-    // Fetch the specific donation campaign details based on the id parameter
-    // You can fetch this data from an API or wherever it's stored
-    // For now, let's assume you have a data object with all donation campaigns
+    
     const fetchData = async () => {
       try {
         const response = await fetch("./donationCampaignApi.json");
@@ -59,13 +24,13 @@ const DonationDetails = () => {
   }, [id]);
 
   if (!donation) {
-    // Loading state or error handling can be added here
+    
     return <div>Loading...</div>;
   }
 
   const donateButtonStyle = {
-    backgroundColor: donation.text_button_bg_color, // Background color from the Card
-    color: donation.card_bg_color, // Text color from the Card
+    backgroundColor: donation.text_button_bg_color,
+    color: donation.card_bg_color,
     padding: "8px 16px",
     borderRadius: "4px",
     cursor: "pointer",
