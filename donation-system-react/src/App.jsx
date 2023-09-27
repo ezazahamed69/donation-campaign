@@ -1,13 +1,13 @@
-import React from "react";
+
 import './App.css';
 
 function App() {
   return (
-    <div className="p-4"> {/* Add padding to the whole content */}
+    <div className="p-4"> 
       <div className="hero min-h-screen background relative">
         <div className="white-overlay"></div>
         <div className="hero-content text-center text-neutral-content">
-          <div className="max-w-md mx-auto"> {/* Center the content and add margin */}
+          <div className="max-w-md mx-auto"> 
             <h1 className=" mb-8 text-4xl font-bold text-black whitespace-nowrap">
               I Grow By Helping People In Need
             </h1>
@@ -29,3 +29,4 @@ function App() {
 }
 
 export default App;
+

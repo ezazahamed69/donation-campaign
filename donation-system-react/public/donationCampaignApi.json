@@ -1,123 +1,134 @@
 [
-      {
-        "picture": "https://i.ibb.co/p0WF82z/Rectangle-4284.png",
-        "title": "Fitness Tracker",
-        "category": "Health",
-        "category_bg_color": "#1abc9c",
-        "card_bg_color": "#f2f2f2",
-        "text_button_bg_color": "#3498db",
-        "description": "Track your daily fitness activities with this advanced fitness tracker.",
-        "price": 49.99
-      },
-      {
-        "picture": "https://i.ibb.co/LYwj7Qb/Rectangle-4287-1.png",
-        "title": "Educational Puzzle Set",
-        "category": "Education",
-        "category_bg_color": "#e74c3c",
-        "card_bg_color": "#f9e79f",
-        "text_button_bg_color": "#34495e",
-        "description": "Enhance your child's learning with this educational puzzle set.",
-        "price": 19.99
-      },
-      {
-        "picture": "https://i.ibb.co/ZJ4CTYr/Clothing.png",
-        "title": "Stylish Hoodie",
-        "category": "Clothing",
-        "category_bg_color": "#3498db",
-        "card_bg_color": "#f2f2f2",
-        "text_button_bg_color": "#e74c3c",
-        "description": "Stay warm and fashionable with this stylish hoodie.",
-        "price": 29.99
-      },
-      {
-        "picture": "https://i.ibb.co/x25DTLn/Rectangle-4287-2.png",
-        "title": "Organic Food Basket",
-        "category": "Food",
-        "category_bg_color": "#2ecc71",
-        "card_bg_color": "#f9e79f",
-        "text_button_bg_color": "#e67e22",
-        "description": "Enjoy a selection of organic and healthy foods in this basket.",
-        "price": 39.99
-      },
-      {
-        "picture": "https://i.ibb.co/p0WF82z/Rectangle-4284.png",
-        "title": "Yoga Mat",
-        "category": "Health",
-        "category_bg_color": "#1abc9c",
-        "card_bg_color": "#f2f2f2",
-        "text_button_bg_color": "#3498db",
-        "description": "Practice yoga comfortably with this high-quality yoga mat.",
-        "price": 19.99
-      },
-      {
-        "picture": "https://i.ibb.co/LYwj7Qb/Rectangle-4287-1.png",
-        "title": "Science Kit",
-        "category": "Education",
-        "category_bg_color": "#e74c3c",
-        "card_bg_color": "#f9e79f",
-        "text_button_bg_color": "#34495e",
-        "description": "Explore the wonders of science with this interactive science kit.",
-        "price": 24.99
-      },
-      {
-        "picture": "https://i.ibb.co/ZJ4CTYr/Clothing.png",
-        "title": "Casual T-Shirt",
-        "category": "Clothing",
-        "category_bg_color": "#3498db",
-        "card_bg_color": "#f2f2f2",
-        "text_button_bg_color": "#e74c3c",
-        "description": "Add a casual touch to your wardrobe with this comfortable t-shirt.",
-        "price": 14.99
-      },
-      {
-        "picture": "https://i.ibb.co/x25DTLn/Rectangle-4287-2.png",
-        "title": "Gourmet Chocolate Box",
-        "category": "Food",
-        "category_bg_color": "#2ecc71",
-        "card_bg_color": "#f9e79f",
-        "text_button_bg_color": "#e67e22",
-        "description": "Indulge in the rich flavors of gourmet chocolates with this box.",
-        "price": 29.99
-      },
-      {
-        "picture": "https://i.ibb.co/p0WF82z/Rectangle-4284.png",
-        "title": "Weight Scale",
-        "category": "Health",
-        "category_bg_color": "#1abc9c",
-        "card_bg_color": "#f2f2f2",
-        "text_button_bg_color": "#3498db",
-        "description": "Keep track of your weight and health goals with this digital weight scale.",
-        "price": 34.99
-      },
-      {
-        "picture": "https://i.ibb.co/LYwj7Qb/Rectangle-4287-1.png",
-        "title": "Art Supplies Kit",
-        "category": "Education",
-        "category_bg_color": "#e74c3c",
-        "card_bg_color": "#f9e79f",
-        "text_button_bg_color": "#34495e",
-        "description": "Unleash your creativity with this comprehensive art supplies kit.",
-        "price": 22.99
-      },
-      {
-        "picture": "https://i.ibb.co/ZJ4CTYr/Clothing.png",
-        "title": "Denim Jeans",
-        "category": "Clothing",
-        "category_bg_color": "#3498db",
-        "card_bg_color": "#f2f2f2",
-        "text_button_bg_color": "#e74c3c",
-        "description": "Stay stylish and comfortable in these classic denim jeans.",
-        "price": 39.99
-      },
-      {
-        "picture": "https://i.ibb.co/x25DTLn/Rectangle-4287-2.png",
-        "title": "Fresh Fruit Basket",
-        "category": "Food",
-        "category_bg_color": "#2ecc71",
-        "card_bg_color": "#f9e79f",
-        "text_button_bg_color": "#e67e22",
-        "description": "Enjoy a variety of fresh and delicious fruits in this basket.",
-        "price": 19.99
-      }
-    ]
-  
+  {
+    "id": 1,
+    "picture": "https://i.ibb.co/p0WF82z/Rectangle-4284.png",
+    "title": "Fitness Tracker",
+    "category": "Health",
+    "category_bg_color": "#1abc9c",
+    "card_bg_color": "#f2f2f2",
+    "text_button_bg_color": "#3498db",
+    "description": "Track your daily fitness activities with this advanced fitness tracker.",
+    "price": 49.99
+  },
+  {
+    "id": 2,
+    "picture": "https://i.ibb.co/LYwj7Qb/Rectangle-4287-1.png",
+    "title": "Educational Puzzle Set",
+    "category": "Education",
+    "category_bg_color": "#e74c3c",
+    "card_bg_color": "#f9e79f",
+    "text_button_bg_color": "#34495e",
+    "description": "Enhance your child's learning with this educational puzzle set.",
+    "price": 19.99
+  },
+  {
+    "id": 3,
+    "picture": "https://i.ibb.co/ZJ4CTYr/Clothing.png",
+    "title": "Stylish Hoodie",
+    "category": "Clothing",
+    "category_bg_color": "#3498db",
+    "card_bg_color": "#f2f2f2",
+    "text_button_bg_color": "#e74c3c",
+    "description": "Stay warm and fashionable with this stylish hoodie.",
+    "price": 29.99
+  },
+  {
+    "id": 4,
+    "picture": "https://i.ibb.co/x25DTLn/Rectangle-4287-2.png",
+    "title": "Organic Food Basket",
+    "category": "Food",
+    "category_bg_color": "#2ecc71",
+    "card_bg_color": "#f9e79f",
+    "text_button_bg_color": "#e67e22",
+    "description": "Enjoy a selection of organic and healthy foods in this basket.",
+    "price": 39.99
+  },
+  {
+    "id": 5,
+    "picture": "https://i.ibb.co/p0WF82z/Rectangle-4284.png",
+    "title": "Yoga Mat",
+    "category": "Health",
+    "category_bg_color": "#1abc9c",
+    "card_bg_color": "#f2f2f2",
+    "text_button_bg_color": "#3498db",
+    "description": "Practice yoga comfortably with this high-quality yoga mat.",
+    "price": 19.99
+  },
+  {
+    "id": 6,
+    "picture": "https://i.ibb.co/LYwj7Qb/Rectangle-4287-1.png",
+    "title": "Science Kit",
+    "category": "Education",
+    "category_bg_color": "#e74c3c",
+    "card_bg_color": "#f9e79f",
+    "text_button_bg_color": "#34495e",
+    "description": "Explore the wonders of science with this interactive science kit.",
+    "price": 24.99
+  },
+  {
+    "id": 7,
+    "picture": "https://i.ibb.co/ZJ4CTYr/Clothing.png",
+    "title": "Casual T-Shirt",
+    "category": "Clothing",
+    "category_bg_color": "#3498db",
+    "card_bg_color": "#f2f2f2",
+    "text_button_bg_color": "#e74c3c",
+    "description": "Add a casual touch to your wardrobe with this comfortable t-shirt.",
+    "price": 14.99
+  },
+  {
+    "id": 8,
+    "picture": "https://i.ibb.co/x25DTLn/Rectangle-4287-2.png",
+    "title": "Gourmet Chocolate Box",
+    "category": "Food",
+    "category_bg_color": "#2ecc71",
+    "card_bg_color": "#f9e79f",
+    "text_button_bg_color": "#e67e22",
+    "description": "Indulge in the rich flavors of gourmet chocolates with this box.",
+    "price": 29.99
+  },
+  {
+    "id": 9,
+    "picture": "https://i.ibb.co/p0WF82z/Rectangle-4284.png",
+    "title": "Weight Scale",
+    "category": "Health",
+    "category_bg_color": "#1abc9c",
+    "card_bg_color": "#f2f2f2",
+    "text_button_bg_color": "#3498db",
+    "description": "Keep track of your weight and health goals with this digital weight scale.",
+    "price": 34.99
+  },
+  {
+    "id": 10,
+    "picture": "https://i.ibb.co/LYwj7Qb/Rectangle-4287-1.png",
+    "title": "Art Supplies Kit",
+    "category": "Education",
+    "category_bg_color": "#e74c3c",
+    "card_bg_color": "#f9e79f",
+    "text_button_bg_color": "#34495e",
+    "description": "Unleash your creativity with this comprehensive art supplies kit.",
+    "price": 22.99
+  },
+  {
+    "id": 11,
+    "picture": "https://i.ibb.co/ZJ4CTYr/Clothing.png",
+    "title": "Denim Jeans",
+    "category": "Clothing",
+    "category_bg_color": "#3498db",
+    "card_bg_color": "#f2f2f2",
+    "text_button_bg_color": "#e74c3c",
+    "description": "Stay stylish and comfortable in these classic denim jeans.",
+    "price": 39.99
+  },
+  {
+    "id": 12,
+    "picture": "https://i.ibb.co/x25DTLn/Rectangle-4287-2.png",
+    "title": "Fresh Fruit Basket",
+    "category": "Food",
+    "category_bg_color": "#2ecc71",
+    "card_bg_color": "#f9e79f",
+    "text_button_bg_color": "#e67e22",
+    "description": "Enjoy a variety of fresh and delicious fruits in this basket.",
+    "price": 19.99
+  }
+]

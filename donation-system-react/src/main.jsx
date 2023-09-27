@@ -8,6 +8,10 @@ import {
 // import App from './App';
 import Root from './components/Root/Root';
 import Error from './components/ErrorPage/Error';
+import DonationDetails from './components/Donation/DonationDetails';
+import Statistics from './components/Statistics/Statistics';
+import Home from './components/Home/Home';
+
 
 const router = createBrowserRouter([
   {
@@ -19,9 +23,19 @@ const router = createBrowserRouter([
 
     children :[
       {
-        path: "/",
-        element: <main></main>
+        path: "/Home",
+        element: <Home></Home>
+      },
+      {
+        path: "/Donation/:id",
+        element: <DonationDetails />,
+      },
+      {
+        path: "/Statistics",
+        element: <Statistics></Statistics>
+        
       }
+      
     ]
   },
 ]);
