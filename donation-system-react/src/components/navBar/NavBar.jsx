@@ -7,7 +7,8 @@ const NavBar = () => {
   <div className="flex-1">
     
   <div className="flex items-center">
-  <img src="../../../Resources/Logo.png" alt="Logo" className="w-18 h-12 mr-2" />
+  <img src="https://i.ibb.co/sPpmn46/Logo.png" alt="Logo" className="w-18 h-12 mr-2" />
+
 </div>
 
 
